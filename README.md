@@ -23,12 +23,3 @@
 ```bash
 bash <(curl -sL https://raw.githubusercontent.com/xxntmctx/Safe-MultiNetwork-Speedtest/main/safe_speedtest.sh)
 ```
-
-### 测速效果预览 (Speedtest Preview)
-
-
-![alt text](https://github.com/user-attachments/assets/935d32d6-d63b-4556-a5a6-ccd4ce195bac)
-
-```
-
-```
